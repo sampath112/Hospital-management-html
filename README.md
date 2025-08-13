@@ -1,3 +1,2 @@
-## Hospital management system 
-using HTML, CSS , JAVASCRIPT
-s
+# Hospital-Management-Html
+created using HTML, CSS, JS, and BootStrap
